@@ -1,4 +1,4 @@
 # Clone
 This clone Test
 
-<color="red">this is red</color>
+I have removed the text as it was not showing color
